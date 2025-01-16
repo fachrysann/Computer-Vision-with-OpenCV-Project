@@ -8,6 +8,7 @@ The dataset contains 21,600 images of left and right hands, with finger counts f
 <img src="Image/CNN_test.gif"/>
 As we can see, it's still not perfect, even though the model achieved an accuracy of over 96% and a loss of less than 1% on test images.
 **Problems:**<br>
+**This will be Bold**
 🟥 The model may make incorrect predictions if the angle of the captured fingers differs from the dataset.<br>
 🟥 The model may make incorrect predictions if the background is not blank.<br>
 **How to tackle the problems:**<br>
