@@ -4,4 +4,4 @@ The dataset: https://www.kaggle.com/datasets/koryakinp/fingers <br>
 Which contains 21600 images of left and right hands fingers from 0, 1, 2, 3, 4, 5. All images are 128 by 128 pixels.
 
 <h3>Results with basic CNN</h3>
-<img src="Image/CNN_test.gif" alt="accessibility text2">
+<img src="Image/CNN_test.gif" width="40" height="40" />
