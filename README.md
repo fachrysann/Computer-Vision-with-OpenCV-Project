@@ -1,4 +1,4 @@
-<h2>**Finger Counting with OpenCV**</h2>
+<h2>Finger Counting with OpenCV</h2>
 After implementing finger counting using edge detection and contours, I'll try using deep learning for this project. Afterward, I will compare the two methods.
 The dataset: https://www.kaggle.com/datasets/koryakinp/fingers <br>
 The dataset contains 21,600 images of left and right hands, with finger counts from 0 to 5. All images are 128x128 pixels.
@@ -15,3 +15,4 @@ How to tackle the problems:<br>
 - [ ] Try different model architectures or use a pretrained model with the ImageNet dataset, hoping that it can better differentiate between fingers and backgrounds.<br>
 - [ ] Add more images to the dataset by recording my own fingers and labeling them.<br>
 - [ ] Try different data augmentation techniques and find the best way to augment the dataset.<br>
+&#x2610 adwdawdaw
