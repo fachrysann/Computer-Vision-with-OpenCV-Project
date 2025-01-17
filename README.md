@@ -1,4 +1,4 @@
-#✋ Finger Counting with OpenCV
+# ✋ Finger Counting with OpenCV
 ## 📖 Introduction
 Counting fingers is a common task in computer vision, useful for gesture recognition. Here, we compare edge detection + contour methods with deep learning approaches.
 After implementing finger counting using edge detection and contours witg OpenCV, I'll try using deep learning for this project. Afterward, I will compare the two methods.<br>
