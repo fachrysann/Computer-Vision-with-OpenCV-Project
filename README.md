@@ -13,6 +13,6 @@ As we can see, it's still not perfect, even though the model achieved an accurac
 🟥 The model will make incorrect predictions if the background is not blank.
 ## How to tackle the problems
 🔲 Process the dataset to make it more like binary threshold images and train the model using that dataset.<br>
-🔲 Try different model architectures or use a pretrained model with the ImageNet dataset, hoping that it can better differentiate between fingers and backgrounds.<br>
+🔲 Try different model architectures or use a pretrained model with the ImageNet dataset, hoping that it can better at classifying<br>
 🔲 Add more images to the dataset by recording my own fingers and labeling them.<br>
 🔲 Try different data augmentation techniques and find the best way to augment the dataset.
