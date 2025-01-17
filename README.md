@@ -7,10 +7,10 @@ The dataset contains 21,600 images of left and right hands, with finger counts f
 ## Results with Basic CNN
 <img src="Image/CNN_test.gif"/>
 As we can see, it's still not perfect, even though the model achieved an accuracy of over 96% and a loss of less than 1% on test images. But it's still better than traditional method that can't predict in dim lights, but with Deep Learning it's more achieveable. <br>
-## Results with Basic CNN
+### Problems 🤔
 🟥 The model may make incorrect predictions if the angle of the captured fingers differs from the dataset.<br>
 🟥 The model will make incorrect predictions if the background is not blank.<br>
-# How to tackle the problems:
+### How to tackle the problems:
 🔲 Process the dataset to make it more like binary threshold images and train the model using that dataset.<br>
 🔲 Try different model architectures or use a pretrained model with the ImageNet dataset, hoping that it can better differentiate between fingers and backgrounds.<br>
 🔲 Add more images to the dataset by recording my own fingers and labeling them.<br>
